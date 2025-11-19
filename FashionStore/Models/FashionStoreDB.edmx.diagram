@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="dfa7a8d4a5db4cb187598272a5d3ba7a" Name="Diagram1">
+        <EntityTypeShape EntityType="FashionStoreDBModel.Banners" Width="1.5" PointX="0.75" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="FashionStoreDBModel.Categories" Width="1.5" PointX="1.25" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="FashionStoreDBModel.ProductImages" Width="1.5" PointX="5.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="FashionStoreDBModel.Products" Width="1.5" PointX="3.75" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="FashionStoreDBModel.Users" Width="1.5" PointX="8" PointY="2.5" IsExpanded="true" />
+        <AssociationConnector Association="FashionStoreDBModel.FK__Categorie__Paren__3B75D760" ManuallyRouted="false" />
+        <AssociationConnector Association="FashionStoreDBModel.FK__Products__Catego__403A8C7D" ManuallyRouted="false" />
+        <AssociationConnector Association="FashionStoreDBModel.FK__ProductIm__Produ__4316F928" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,249 @@
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\FashionStore.dll.config
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\FashionStore.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\FashionStore.pdb
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\WebGrease.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\obj\Debug\FashionStore.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\obj\Debug\FashionStore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\obj\Debug\FashionS.76E34CF8.Up2Date
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\obj\Debug\FashionStore.dll
+C:\Users\Admin\Desktop\MyStudy\AspNet\FashionStore\obj\Debug\FashionStore.pdb
+C:\Users\User\Desktop\FashionStore\bin\FashionStore.dll.config
+C:\Users\User\Desktop\FashionStore\bin\FashionStore.dll
+C:\Users\User\Desktop\FashionStore\bin\FashionStore.pdb
+C:\Users\User\Desktop\FashionStore\bin\roslyn\csc.exe
+C:\Users\User\Desktop\FashionStore\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\FashionStore\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\FashionStore\bin\roslyn\csi.exe
+C:\Users\User\Desktop\FashionStore\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\FashionStore\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\FashionStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\FashionStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\FashionStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\FashionStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\FashionStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\FashionStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\FashionStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\FashionStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\FashionStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\FashionStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\FashionStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\FashionStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\FashionStore\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\FashionStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\FashionStore\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\FashionStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\FashionStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\FashionStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\FashionStore\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\Desktop\FashionStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\FashionStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\Desktop\FashionStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\FashionStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\FashionStore\bin\roslyn\System.Net.Http.dll
+C:\Users\User\Desktop\FashionStore\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\Desktop\FashionStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\FashionStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Desktop\FashionStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\FashionStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\FashionStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\FashionStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\FashionStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\FashionStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\FashionStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\FashionStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\FashionStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\FashionStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\FashionStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\FashionStore\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\FashionStore\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\FashionStore\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\FashionStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\FashionStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\FashionStore\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\FashionStore\bin\EntityFramework.dll
+C:\Users\User\Desktop\FashionStore\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\FashionStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\FashionStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\FashionStore\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\FashionStore\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\FashionStore\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\FashionStore\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\FashionStore\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\FashionStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\FashionStore\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\FashionStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\FashionStore\bin\WebGrease.dll
+C:\Users\User\Desktop\FashionStore\bin\EntityFramework.xml
+C:\Users\User\Desktop\FashionStore\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\FashionStore\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\FashionStore\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\FashionStore\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\FashionStore\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\FashionStore\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\FashionStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\FashionStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\FashionStore\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\FashionStore\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\FashionStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\FashionStore\obj\Debug\FashionStore.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\FashionStore\obj\Debug\FashionStore.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FashionStore\obj\Debug\FashionS.76E34CF8.Up2Date
+C:\Users\User\Desktop\FashionStore\obj\Debug\FashionStore.dll
+C:\Users\User\Desktop\FashionStore\obj\Debug\FashionStore.pdb
+D:\New folder (3)\FashionStore\bin\FashionStore.dll.config
+D:\New folder (3)\FashionStore\bin\FashionStore.dll
+D:\New folder (3)\FashionStore\bin\FashionStore.pdb
+D:\New folder (3)\FashionStore\bin\roslyn\csc.exe
+D:\New folder (3)\FashionStore\bin\roslyn\csc.exe.config
+D:\New folder (3)\FashionStore\bin\roslyn\csc.rsp
+D:\New folder (3)\FashionStore\bin\roslyn\csi.exe
+D:\New folder (3)\FashionStore\bin\roslyn\csi.exe.config
+D:\New folder (3)\FashionStore\bin\roslyn\csi.rsp
+D:\New folder (3)\FashionStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\New folder (3)\FashionStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder (3)\FashionStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\New folder (3)\FashionStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\New folder (3)\FashionStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\New folder (3)\FashionStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\New folder (3)\FashionStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\New folder (3)\FashionStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\New folder (3)\FashionStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\New folder (3)\FashionStore\bin\roslyn\Microsoft.Managed.Core.targets
+D:\New folder (3)\FashionStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\New folder (3)\FashionStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\New folder (3)\FashionStore\bin\roslyn\System.AppContext.dll
+D:\New folder (3)\FashionStore\bin\roslyn\System.Collections.Immutable.dll
+D:\New folder (3)\FashionStore\bin\roslyn\System.Console.dll
+D:\New folder (3)\FashionStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\New folder (3)\FashionStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\New folder (3)\FashionStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\New folder (3)\FashionStore\bin\roslyn\System.Globalization.Calendars.dll
+D:\New folder (3)\FashionStore\bin\roslyn\System.IO.Compression.dll
+D:\New folder (3)\FashionStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\New folder (3)\FashionStore\bin\roslyn\System.IO.FileSystem.dll
+D:\New folder (3)\FashionStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\New folder (3)\FashionStore\bin\roslyn\System.Net.Http.dll
+D:\New folder (3)\FashionStore\bin\roslyn\System.Net.Sockets.dll
+D:\New folder (3)\FashionStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\New folder (3)\FashionStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\New folder (3)\FashionStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\New folder (3)\FashionStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\New folder (3)\FashionStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\New folder (3)\FashionStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\New folder (3)\FashionStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\New folder (3)\FashionStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\New folder (3)\FashionStore\bin\roslyn\System.ValueTuple.dll
+D:\New folder (3)\FashionStore\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\New folder (3)\FashionStore\bin\roslyn\System.Xml.XmlDocument.dll
+D:\New folder (3)\FashionStore\bin\roslyn\System.Xml.XPath.dll
+D:\New folder (3)\FashionStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\New folder (3)\FashionStore\bin\roslyn\vbc.exe
+D:\New folder (3)\FashionStore\bin\roslyn\vbc.exe.config
+D:\New folder (3)\FashionStore\bin\roslyn\vbc.rsp
+D:\New folder (3)\FashionStore\bin\roslyn\VBCSCompiler.exe
+D:\New folder (3)\FashionStore\bin\roslyn\VBCSCompiler.exe.config
+D:\New folder (3)\FashionStore\bin\Antlr3.Runtime.dll
+D:\New folder (3)\FashionStore\bin\EntityFramework.dll
+D:\New folder (3)\FashionStore\bin\EntityFramework.SqlServer.dll
+D:\New folder (3)\FashionStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\New folder (3)\FashionStore\bin\Microsoft.Web.Infrastructure.dll
+D:\New folder (3)\FashionStore\bin\Newtonsoft.Json.dll
+D:\New folder (3)\FashionStore\bin\System.Web.Helpers.dll
+D:\New folder (3)\FashionStore\bin\System.Web.Mvc.dll
+D:\New folder (3)\FashionStore\bin\System.Web.Optimization.dll
+D:\New folder (3)\FashionStore\bin\System.Web.Razor.dll
+D:\New folder (3)\FashionStore\bin\System.Web.WebPages.Deployment.dll
+D:\New folder (3)\FashionStore\bin\System.Web.WebPages.dll
+D:\New folder (3)\FashionStore\bin\System.Web.WebPages.Razor.dll
+D:\New folder (3)\FashionStore\bin\WebGrease.dll
+D:\New folder (3)\FashionStore\bin\EntityFramework.xml
+D:\New folder (3)\FashionStore\bin\EntityFramework.SqlServer.xml
+D:\New folder (3)\FashionStore\bin\System.Web.Helpers.xml
+D:\New folder (3)\FashionStore\bin\System.Web.Mvc.xml
+D:\New folder (3)\FashionStore\bin\System.Web.Optimization.xml
+D:\New folder (3)\FashionStore\bin\System.Web.Razor.xml
+D:\New folder (3)\FashionStore\bin\System.Web.WebPages.xml
+D:\New folder (3)\FashionStore\bin\System.Web.WebPages.Deployment.xml
+D:\New folder (3)\FashionStore\bin\System.Web.WebPages.Razor.xml
+D:\New folder (3)\FashionStore\bin\Newtonsoft.Json.xml
+D:\New folder (3)\FashionStore\bin\Antlr3.Runtime.pdb
+D:\New folder (3)\FashionStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\New folder (3)\FashionStore\obj\Debug\FashionStore.csproj.AssemblyReference.cache
+D:\New folder (3)\FashionStore\obj\Debug\FashionStore.csproj.CoreCompileInputs.cache
+D:\New folder (3)\FashionStore\obj\Debug\FashionS.76E34CF8.Up2Date
+D:\New folder (3)\FashionStore\obj\Debug\FashionStore.dll
+D:\New folder (3)\FashionStore\obj\Debug\FashionStore.pdb
